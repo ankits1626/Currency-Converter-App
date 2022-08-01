@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FED130F7-A6CB-4FD0-82FC-F96D640899B9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E1D3BDF-85AA-4237-9C87-01AD39E47512"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PayPayCurrencyConverter/Currency Conversion/PPCCurrencyConverterMainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "handleConversionResult(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7E1D3BDF-85AA-4237-9C87-01AD39E47512 - 6408f06a653148e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayPayCurrencyConverter.PPCCurrencyConverterMainViewController.handleConversionResult(PayPayCurrencyConverter.PPCConversionResultProtocol) -&gt; ()"
+                  moduleName = "PayPayCurrencyConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankit/Documents/code/learn/iOSTest/PayPayCurrencyConverter/PayPayCurrencyConverter/Currency%20Conversion/PPCCurrencyConverterMainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "66">
+               </Location>
+               <Location
+                  uuid = "7E1D3BDF-85AA-4237-9C87-01AD39E47512 - 6408f06a653148e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayPayCurrencyConverter.PPCCurrencyConverterMainViewController.handleConversionResult(PayPayCurrencyConverter.PPCConversionResultProtocol) -&gt; ()"
+                  moduleName = "PayPayCurrencyConverter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankit/Documents/code/learn/iOSTest/PayPayCurrencyConverter/PayPayCurrencyConverter/Currency%20Conversion/PPCCurrencyConverterMainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "218">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C949A10-2427-4EA8-ADAD-A09B174CDE42"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PayPayCurrencyConverterTests/mocks/MockErrorDisplayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "displayError(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
