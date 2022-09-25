@@ -1,0 +1,22 @@
+PODS:
+  - KUIPopOver (1.2.0)
+  - SDWebImage (5.1.0):
+    - SDWebImage/Core (= 5.1.0)
+  - SDWebImage/Core (5.1.0)
+
+DEPENDENCIES:
+  - KUIPopOver
+  - SDWebImage (= 5.1.0)
+
+SPEC REPOS:
+  trunk:
+    - KUIPopOver
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  KUIPopOver: 71644b6a9219a1d175aba44e06d02f1b70aa4b77
+  SDWebImage: fb387001955223213dde14bc08c8b73f371f8d8f
+
+PODFILE CHECKSUM: 6611db94843471f90218f82489c2310e7aa690e0
+
+COCOAPODS: 1.11.3

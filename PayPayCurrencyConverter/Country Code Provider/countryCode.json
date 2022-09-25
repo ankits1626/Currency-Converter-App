@@ -1,0 +1,1022 @@
+[
+ {
+   "Currency Code": "AED",
+   "CurrencyName": "United Arab Emirates Dirham",
+   "Country Code": "ARE",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "AFN",
+   "CurrencyName": "Afghan Afghani",
+   "Country Code": "AFG",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "ALL",
+   "CurrencyName": "Albanian Lek",
+   "Country Code": "ALB",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "AMD",
+   "CurrencyName": "Armenian Dram",
+   "Country Code": "ARM",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "ANG",
+   "CurrencyName": "Netherlands Antillean Guilder",
+   "Country Code": "NLD",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "AOA",
+   "CurrencyName": "Angolan Kwanza",
+   "Country Code": "AGO",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "ARS",
+   "CurrencyName": "Argentine Peso",
+   "Country Code": "ARG",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "AUD",
+   "CurrencyName": "Australian Dollar",
+   "Country Code": "AUS",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "AWG",
+   "CurrencyName": "Aruban Florin",
+   "Country Code": "ABW",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "AZN",
+   "CurrencyName": "Azerbaijani Manat",
+   "Country Code": "AZE",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BAM",
+   "CurrencyName": "Bosnia-Herzegovina Convertible Mark",
+   "Country Code": "BIH",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BBD",
+   "CurrencyName": "Barbadian Dollar",
+   "Country Code": "BRB",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BDT",
+   "CurrencyName": "Bangladeshi Taka",
+   "Country Code": "BGD",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BGN",
+   "CurrencyName": "Bulgarian Lev",
+   "Country Code": "BGR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BHD",
+   "CurrencyName": "Bahraini Dinar",
+   "Country Code": "BHR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BIF",
+   "CurrencyName": "Burundian Franc",
+   "Country Code": "BDI",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BMD",
+   "CurrencyName": "Bermudan Dollar",
+   "Country Code": "BMU",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BND",
+   "CurrencyName": "Brunei Dollar",
+   "Country Code": "BRN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BOB",
+   "CurrencyName": "Bolivian Boliviano",
+   "Country Code": "BOL",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BRL",
+   "CurrencyName": "Brazilian Real",
+   "Country Code": "BRA",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BSD",
+   "CurrencyName": "Bahamian Dollar",
+   "Country Code": "BHS",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BTC",
+   "CurrencyName": "Bitcoin",
+   "Country Code": "",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BTN",
+   "CurrencyName": "Bhutanese Ngultrum",
+   "Country Code": "BHS",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BWP",
+   "CurrencyName": "Botswanan Pula",
+   "Country Code": "BWA",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BYN",
+   "CurrencyName": "Belarusian Ruble",
+   "Country Code": "BLR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "BZD",
+   "CurrencyName": "Belize Dollar",
+   "Country Code": "BLZ",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "CAD",
+   "CurrencyName": "Canadian Dollar",
+   "Country Code": "CAN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "CDF",
+   "CurrencyName": "Congolese Franc",
+   "Country Code": "COD",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "CHF",
+   "CurrencyName": "Swiss Franc",
+   "Country Code": "CHE",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "CLF",
+   "CurrencyName": "Chilean Unit of Account (UF)",
+   "Country Code": "CHL",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "CLP",
+   "CurrencyName": "Chilean Peso",
+   "Country Code": "CHL",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "CNH",
+   "CurrencyName": "Chinese Yuan (Offshore)",
+   "Country Code": "CHN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "CNY",
+   "CurrencyName": "Chinese Yuan",
+   "Country Code": "CHN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "COP",
+   "CurrencyName": "Colombian Peso",
+   "Country Code": "COL",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "CRC",
+   "CurrencyName": "Costa Rican Colón",
+   "Country Code": "CRI",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "CUC",
+   "CurrencyName": "Cuban Convertible Peso",
+   "Country Code": "CUB",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "CUP",
+   "CurrencyName": "Cuban Peso",
+   "Country Code": "CUB",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "CVE",
+   "CurrencyName": "Cape Verdean Escudo",
+   "Country Code": "CPV",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "CZK",
+   "CurrencyName": "Czech Republic Koruna",
+   "Country Code": "CZE",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "DJF",
+   "CurrencyName": "Djiboutian Franc",
+   "Country Code": "DJI",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "DKK",
+   "CurrencyName": "Danish Krone",
+   "Country Code": "DNK",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "DOP",
+   "CurrencyName": "Dominican Peso",
+   "Country Code": "DOM",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "DZD",
+   "CurrencyName": "Algerian Dinar",
+   "Country Code": "DZA",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "EGP",
+   "CurrencyName": "Egyptian Pound",
+   "Country Code": "EGY",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "ERN",
+   "CurrencyName": "Eritrean Nakfa",
+   "Country Code": "ERI",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "ETB",
+   "CurrencyName": "Ethiopian Birr",
+   "Country Code": "ETH",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "EUR",
+   "CurrencyName": "Euro",
+   "Country Code": "EUR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "FJD",
+   "CurrencyName": "Fijian Dollar",
+   "Country Code": "FJI",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "FKP",
+   "CurrencyName": "Falkland Islands Pound",
+   "Country Code": "",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "GBP",
+   "CurrencyName": "British Pound Sterling",
+   "Country Code": "GBR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "GEL",
+   "CurrencyName": "Georgian Lari",
+   "Country Code": "GEO",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "GGP",
+   "CurrencyName": "Guernsey Pound",
+   "Country Code": "GGY",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "GHS",
+   "CurrencyName": "Ghanaian Cedi",
+   "Country Code": "GHA",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "GIP",
+   "CurrencyName": "Gibraltar Pound",
+   "Country Code": "GIP",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "GMD",
+   "CurrencyName": "Gambian Dalasi",
+   "Country Code": "GIB",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "GNF",
+   "CurrencyName": "Guinean Franc",
+   "Country Code": "GIN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "GTQ",
+   "CurrencyName": "Guatemalan Quetzal",
+   "Country Code": "GTM",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "GYD",
+   "CurrencyName": "Guyanaese Dollar",
+   "Country Code": "GUY",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "HKD",
+   "CurrencyName": "Hong Kong Dollar",
+   "Country Code": "HKG",
+   "FIELD4": " "
+ },
+ {
+   "Currency Code": "HNL",
+   "CurrencyName": "Honduran Lempira",
+   "Country Code": "HND",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "HRK",
+   "CurrencyName": "Croatian Kuna",
+   "Country Code": "HRV",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "HTG",
+   "CurrencyName": "Haitian Gourde",
+   "Country Code": "HTI",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "HUF",
+   "CurrencyName": "Hungarian Forint",
+   "Country Code": "HUN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "IDR",
+   "CurrencyName": "Indonesian Rupiah",
+   "Country Code": "IDN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "ILS",
+   "CurrencyName": "Israeli New Sheqel",
+   "Country Code": "ISR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "IMP",
+   "CurrencyName": "Manx pound",
+   "Country Code": "IMN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "INR",
+   "CurrencyName": "Indian Rupee",
+   "Country Code": "IND",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "IQD",
+   "CurrencyName": "Iraqi Dinar",
+   "Country Code": "IRQ",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "IRR",
+   "CurrencyName": "Iranian Rial",
+   "Country Code": "IRN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "ISK",
+   "CurrencyName": "Icelandic Króna",
+   "Country Code": "ISL",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "JEP",
+   "CurrencyName": "Jersey Pound",
+   "Country Code": "JEY",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "JMD",
+   "CurrencyName": "Jamaican Dollar",
+   "Country Code": "JAM",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "JOD",
+   "CurrencyName": "Jordanian Dinar",
+   "Country Code": "JOR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "JPY",
+   "CurrencyName": "Japanese Yen",
+   "Country Code": "JPN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "KES",
+   "CurrencyName": "Kenyan Shilling",
+   "Country Code": "KEN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "KGS",
+   "CurrencyName": "Kyrgystani Som",
+   "Country Code": "KGZ",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "KHR",
+   "CurrencyName": "Cambodian Riel",
+   "Country Code": "KHM",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "KMF",
+   "CurrencyName": "Comorian Franc",
+   "Country Code": "COM",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "KPW",
+   "CurrencyName": "North Korean Won",
+   "Country Code": "PRK",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "KRW",
+   "CurrencyName": "South Korean Won",
+   "Country Code": "KOR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "KWD",
+   "CurrencyName": "Kuwaiti Dinar",
+   "Country Code": "KWT",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "KYD",
+   "CurrencyName": "Cayman Islands Dollar",
+   "Country Code": "CYM",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "KZT",
+   "CurrencyName": "Kazakhstani Tenge",
+   "Country Code": "KAZ",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "LAK",
+   "CurrencyName": "Laotian Kip",
+   "Country Code": "LAO",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "LBP",
+   "CurrencyName": "Lebanese Pound",
+   "Country Code": "LBN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "LKR",
+   "CurrencyName": "Sri Lankan Rupee",
+   "Country Code": "LKA",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "LRD",
+   "CurrencyName": "Liberian Dollar",
+   "Country Code": "LBR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "LSL",
+   "CurrencyName": "Lesotho Loti",
+   "Country Code": "LSO",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "LYD",
+   "CurrencyName": "Libyan Dinar",
+   "Country Code": "LBY",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "MAD",
+   "CurrencyName": "Moroccan Dirham",
+   "Country Code": "MAR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "MDL",
+   "CurrencyName": "Moldovan Leu",
+   "Country Code": "MDA",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "MGA",
+   "CurrencyName": "Malagasy Ariary",
+   "Country Code": "MDG",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "MKD",
+   "CurrencyName": "Macedonian Denar",
+   "Country Code": "MKD",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "MMK",
+   "CurrencyName": "Myanma Kyat",
+   "Country Code": "MMR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "MNT",
+   "CurrencyName": "Mongolian Tugrik",
+   "Country Code": "MNG",
+   "FIELD4": " "
+ },
+ {
+   "Currency Code": "MOP",
+   "CurrencyName": "Macanese Pataca",
+   "Country Code": "MAC",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "MRU",
+   "CurrencyName": "Mauritanian Ouguiya",
+   "Country Code": "MRT",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "MUR",
+   "CurrencyName": "Mauritian Rupee",
+   "Country Code": "MRT",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "MVR",
+   "CurrencyName": "Maldivian Rufiyaa",
+   "Country Code": "MDV",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "MWK",
+   "CurrencyName": "Malawian Kwacha",
+   "Country Code": "MWI",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "MXN",
+   "CurrencyName": "Mexican Peso",
+   "Country Code": "MEX",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "MYR",
+   "CurrencyName": "Malaysian Ringgit",
+   "Country Code": "MYS",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "MZN",
+   "CurrencyName": "Mozambican Metical",
+   "Country Code": "MOZ",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "NAD",
+   "CurrencyName": "Namibian Dollar",
+   "Country Code": "NAM",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "NGN",
+   "CurrencyName": "Nigerian Naira",
+   "Country Code": "NGA",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "NIO",
+   "CurrencyName": "Nicaraguan Córdoba",
+   "Country Code": "NIC",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "NOK",
+   "CurrencyName": "Norwegian Krone",
+   "Country Code": "NOR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "NPR",
+   "CurrencyName": "Nepalese Rupee",
+   "Country Code": "NPL",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "NZD",
+   "CurrencyName": "New Zealand Dollar",
+   "Country Code": "NZL",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "OMR",
+   "CurrencyName": "Omani Rial",
+   "Country Code": "OMN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "PAB",
+   "CurrencyName": "Panamanian Balboa",
+   "Country Code": "PAN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "PEN",
+   "CurrencyName": "Peruvian Nuevo Sol",
+   "Country Code": "PER",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "PGK",
+   "CurrencyName": "Papua New Guinean Kina",
+   "Country Code": "PNG",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "PHP",
+   "CurrencyName": "Philippine Peso",
+   "Country Code": "PHL",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "PKR",
+   "CurrencyName": "Pakistani Rupee",
+   "Country Code": "PAK",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "PLN",
+   "CurrencyName": "Polish Zloty",
+   "Country Code": "POL",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "PYG",
+   "CurrencyName": "Paraguayan Guarani",
+   "Country Code": "PRY",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "QAR",
+   "CurrencyName": "Qatari Rial",
+   "Country Code": "QAT",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "RON",
+   "CurrencyName": "Romanian Leu",
+   "Country Code": "ROU",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "RSD",
+   "CurrencyName": "Serbian Dinar",
+   "Country Code": "SRB",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "RUB",
+   "CurrencyName": "Russian Ruble",
+   "Country Code": "RUS",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "RWF",
+   "CurrencyName": "Rwandan Franc",
+   "Country Code": "RWA",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "SAR",
+   "CurrencyName": "Saudi Riyal",
+   "Country Code": "SAU",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "SBD",
+   "CurrencyName": "Solomon Islands Dollar",
+   "Country Code": "SLB",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "SCR",
+   "CurrencyName": "Seychellois Rupee",
+   "Country Code": "SYC",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "SDG",
+   "CurrencyName": "Sudanese Pound",
+   "Country Code": "SDN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "SEK",
+   "CurrencyName": "Swedish Krona",
+   "Country Code": "SWE",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "SGD",
+   "CurrencyName": "Singapore Dollar",
+   "Country Code": "SGP",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "SHP",
+   "CurrencyName": "Saint Helena Pound",
+   "Country Code": "SHN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "SLL",
+   "CurrencyName": "Sierra Leonean Leone",
+   "Country Code": "SLE",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "SOS",
+   "CurrencyName": "Somali Shilling",
+   "Country Code": "SOM",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "SRD",
+   "CurrencyName": "Surinamese Dollar",
+   "Country Code": "SUR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "SSP",
+   "CurrencyName": "South Sudanese Pound",
+   "Country Code": "SSD",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "STD",
+   "CurrencyName": "São Tomé and Príncipe Dobra (pre-2018)",
+   "Country Code": "STP",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "STN",
+   "CurrencyName": "São Tomé and Príncipe Dobra",
+   "Country Code": "STP",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "SVC",
+   "CurrencyName": "Salvadoran Colón",
+   "Country Code": "SLV",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "SYP",
+   "CurrencyName": "Syrian Pound",
+   "Country Code": "SYR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "SZL",
+   "CurrencyName": "Swazi Lilangeni",
+   "Country Code": "SWZ",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "THB",
+   "CurrencyName": "Thai Baht",
+   "Country Code": "THA",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "TJS",
+   "CurrencyName": "Tajikistani Somoni",
+   "Country Code": "TJK",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "TMT",
+   "CurrencyName": "Turkmenistani Manat",
+   "Country Code": "TKM",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "TND",
+   "CurrencyName": "Tunisian Dinar",
+   "Country Code": "TUN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "TOP",
+   "CurrencyName": "Tongan Pa'anga",
+   "Country Code": "TON",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "TRY",
+   "CurrencyName": "Turkish Lira",
+   "Country Code": "TUR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "TTD",
+   "CurrencyName": "Trinidad and Tobago Dollar",
+   "Country Code": "TTO",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "TWD",
+   "CurrencyName": "New Taiwan Dollar",
+   "Country Code": "TWN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "TZS",
+   "CurrencyName": "Tanzanian Shilling",
+   "Country Code": "TZA",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "UAH",
+   "CurrencyName": "Ukrainian Hryvnia",
+   "Country Code": "UKR",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "UGX",
+   "CurrencyName": "Ugandan Shilling",
+   "Country Code": "UGA",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "USD",
+   "CurrencyName": "United States Dollar",
+   "Country Code": "USA",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "UYU",
+   "CurrencyName": "Uruguayan Peso",
+   "Country Code": "URY",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "UZS",
+   "CurrencyName": "Uzbekistan Som",
+   "Country Code": "UZB",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "VEF",
+   "CurrencyName": "Venezuelan Bolívar Fuerte (Old)",
+   "Country Code": "VEN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "VES",
+   "CurrencyName": "Venezuelan Bolívar Soberano",
+   "Country Code": "VEN",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "VND",
+   "CurrencyName": "Vietnamese Dong",
+   "Country Code": "VNM",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "VUV",
+   "CurrencyName": "Vanuatu Vatu",
+   "Country Code": "VUT",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "WST",
+   "CurrencyName": "Samoan Tala",
+   "Country Code": "WSM",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "XAF",
+   "CurrencyName": "CFA Franc BEAC",
+   "Country Code": "CAF",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "XAG",
+   "CurrencyName": "Silver Ounce",
+   "Country Code": "",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "XAU",
+   "CurrencyName": "Gold Ounce",
+   "Country Code": "",
+   "FIELD4": " "
+ },
+ {
+   "Currency Code": "XCD",
+   "CurrencyName": "East Caribbean Dollar",
+   "Country Code": "",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "XDR",
+   "CurrencyName": "Special Drawing Rights",
+   "Country Code": "",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "XOF",
+   "CurrencyName": "CFA Franc BCEAO",
+   "Country Code": "",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "XPD",
+   "CurrencyName": "Palladium Ounce",
+   "Country Code": "",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "XPF",
+   "CurrencyName": "CFP Franc",
+   "Country Code": "FRA",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "XPT",
+   "CurrencyName": "Platinum Ounce",
+   "Country Code": "",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "YER",
+   "CurrencyName": "Yemeni Rial",
+   "Country Code": "YEM",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "ZAR",
+   "CurrencyName": "South African Rand",
+   "Country Code": "ZAF",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "ZMW",
+   "CurrencyName": "Zambian Kwacha",
+   "Country Code": "ZMB",
+   "FIELD4": ""
+ },
+ {
+   "Currency Code": "ZWL",
+   "CurrencyName": "Zimbabwean Dollar",
+   "Country Code": "ZWE",
+   "FIELD4": ""
+ }
+]

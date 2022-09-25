@@ -1,6 +1,4 @@
 #  PayPayCurrencyConversion App
-- Demo
-![Screenshot](https://github.com/ankits1626/Currency-Converter-App/blob/main/example_screenshot.png)
 - Usage
     - Convert any money value from one currency to another
     - To run this project we must install pods first

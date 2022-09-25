@@ -1,0 +1,19 @@
+/* 
+  PPCStrings.strings
+  PayPayCurrencyConverter
+
+  Created by Ankit on 30/07/22.
+  
+*/
+
+//Currency Interface
+
+//Currency Selector
+"CurrencySelector: Placeholder" = "Tap Here To Select a Curency";
+
+//Error
+"Errors:NoCurrencyAvailable" = "No currency Abvailable";
+
+//Commons
+"Commons:OK" = "OK";
+"Commons:EmptyConversions" = "Unable to fetch conversions";
